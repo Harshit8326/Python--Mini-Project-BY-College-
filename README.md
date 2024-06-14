@@ -21,5 +21,16 @@ The script prompts the user to enter values for the range [A, B]. It then iterat
 
 ## Example Output
 
-For example, if A = 1 and B = 10, the script would output:
+For example, if A = 1 and B = 10, the script would output:For Range [1,10]
+1, is neither Prime nor Composite
+2 is Prime
+3 is Prime
+4 is Composite
+5 is Prime
+6 is Composite
+7 is Prime
+8 is Composite
+9 is Composite
+10 is Composite
+4 Prime and 6 Composite numbers in the range
 
